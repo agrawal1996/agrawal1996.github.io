@@ -49,12 +49,12 @@ github: mygithub
 # reddit: username
 medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: agrawal1996@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    Aditya Agrawal:
+        name: Aditya Agrawal
+        bio: A Man who loves movies and tv series
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
